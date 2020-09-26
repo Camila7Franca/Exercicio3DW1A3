@@ -1,0 +1,22 @@
+h1 {  text-align: center;}
+
+body {
+font-family: arial;
+background-color: rgb(255, 168, 62);}
+
+h1 {
+color: rgb(22, 22, 22);}
+
+table {
+    text-align: center;
+    background-color: white;
+    border: none;}
+
+th, td {
+    border: none;
+    background-color: rgb(255, 93, 17);
+    padding: 15px;
+    width: 500px;}
+
+figure {
+    text-align: center;}
